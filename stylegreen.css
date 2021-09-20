@@ -82,3 +82,7 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.noClick {
+   pointer-events: none;
+}
