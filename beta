@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="topnav">
-    <p><img src="unnamed.jpg" alt="Logo"></p>
+    <p><img src="beta.jpg" alt="Logo"></p>
     <div class="noClick"><a  class="active"  href="/">Home</a></div>
     <a href="/over">Over mij</a>
     <a href="/contact">Contact</a>
